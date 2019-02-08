@@ -40,8 +40,24 @@ Add variables to your project from Part A so that the face can move between the 
 Modify your code from part B so that the face changes fluidly from the neutral expression to the strong expression as you move the mouse across the screen. The map function will be your friend for this. You will need to include a setup() and draw() to your project so that variables in the draw() can be updated on the fly. Think about how you can develop in-between expressions and make the face as dynamic and emotive as possible. I have put together an example TK.
 
 
-* [Paul](https://editor.p5js.org/PaulKnipper/sketches/r1V1N7B9m)
-* 
+* [Jiaxin](https://editor.p5js.org/dangotkmn/sketches/_MoYCtwl1)
+* [Jack](https://editor.p5js.org/Jmitchmoore/sketches/zyYPg6UIG)
+* [Xiaoying](https://editor.p5js.org/dingdingxy/sketches/YbOD8W7xK)
+* [Yicen](https://editor.p5js.org/Yicen/sketches/TVCqfWEQs)
+* [Meijun](https://editor.p5js.org/may0626/sketches/8-Hexlafh)
+* [Adeline](https://editor.p5js.org/qcao/sketches/BmV9Op_uU)
+* [Jia](https://editor.p5js.org/Dengasese/sketches/yXb2Q29vG)
+* [Jennifer](https://editor.p5js.org/jenniferbahng/sketches/rAkULjgrF)
+* [Michael](https://editor.p5js.org/lhzgogo123/sketches/3jjwUVN3I)
+* [Yoko](https://editor.p5js.org/yoko_yin/sketches/0cuGp5dYk)
+* [Violet](https://editor.p5js.org/vhuff/sketches/QD1u_Xliv)
+* [Paige1](https://editor.p5js.org/psellers1/sketches/CdwxxquTN)
+* [Paige2](https://editor.p5js.org/psellers1/sketches/Bozz6v0MN)
+* [Kono](https://editor.p5js.org/Konosuke/sketches/vyX6njUdS)
+* [Mingming](https://editor.p5js.org/mzheng@inside.artcenter.edu/sketches/AqR6O7JLt)
+* [Mingming](https://editor.p5js.org/mzheng@inside.artcenter.edu/sketches/AqR6O7JLt)
+
+
 
 
 
