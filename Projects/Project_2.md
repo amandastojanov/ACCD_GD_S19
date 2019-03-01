@@ -21,4 +21,15 @@ Free SFX
 Sound Bible
 Sound On Loop
 
-* [Jisu](https://editor.p5js.org/jhwang15/sketches/B1E6FO99Q)
+* [Adeline](https://editor.p5js.org/qcao/sketches/wQQ33ATtW)
+* [Jennifer](https://editor.p5js.org/jenniferbahng/sketches/t0pbz-Yen)
+* [Paige](https://editor.p5js.org/psellers1/sketches/dMcVDKiwe)
+* [Jia](https://editor.p5js.org/Dengasese/sketches/D3VMGm-yf)
+* [Mingming](https://editor.p5js.org/mzheng@inside.artcenter.edu/sketches/R0gMBsvqf)
+* [Michael](https://editor.p5js.org/lhzgogo123/sketches/waBOjwPzA)
+* [Jack](https://editor.p5js.org/Jmitchmoore/sketches/t92_Ovvpc)
+* [Yicen](https://editor.p5js.org/yicen918@gmail.com/sketches/bmlzF2772)
+* [Kono](https://editor.p5js.org/Konosuke/sketches/OAHOmfV77)
+* [Xiaoying](https://editor.p5js.org/dingdingxy/sketches/M6Pnio9mZ)
+* [Violet](https://editor.p5js.org/vhuff/sketches/N_LqGHg7B)
+* [Meijun](https://editor.p5js.org/may0626/sketches/ydiZOSqTU)
