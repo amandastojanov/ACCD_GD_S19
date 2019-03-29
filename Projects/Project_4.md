@@ -1,14 +1,19 @@
-# Project 4 Anim-instrument
+#Project 4: Pattern Weaver
 
-## Part A
-For project 4 we will be creating a musical instrument that can be played by pressing different keys. When you press a key your program should play a sound and trigger an animation. For the first part of this assignment, create between 5 - 26 different sketches that have their own distinct sound / animation combo. Make sure each animation is encapsulated inside of a function. Think about the relationship between sound and motion? What motions make sense with what sounds?
+##Part A
+
+For Project 3 we will be making a series of geometric patterns that move in relation to a song or piece of audio. For part A, you need to pick a piece of audio that you would like to work with. Bring your audio track to class on
 
 
-## Part B
-Now that you have all of your animations created, combine them all into one larger sketch so that you can play your instrument.
+##Part B
 
-Examples:
-Patatap
+With your audio track in mind, sketch 5 different distinct patterns that will be associated with different parts of the song. Think about how the patterns will change if they are laid over top of each other, rotated, scaled, or altered in color. You will most definitely need to use for or while loops for this project. Create one sketch for each pattern
+
+
+##Part C
+
+Now that you have all five sketches complete, your task is to combine them into one continuous sketch that plays along with the music. Think about how you can trigger your different patterns. Possible triggers might be volume (amplitude) or time cues. Your code will be significantly easier to manage if you roll your patterns into functions.
+
 
 
 * [Nicole](https://editor.p5js.org/nwang/sketches/BJ07dzc2X)
