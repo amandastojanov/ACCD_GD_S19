@@ -12,5 +12,20 @@ Examples:
 Patatap
 
 
-* [Nicole](https://editor.p5js.org/nwang/sketches/BJ07dzc2X)
 
+
+* [Jennifer](https://editor.p5js.org/jenniferbahng/sketches/m9Gql2AOQ)
+* [Adeline](https://editor.p5js.org/qcao/sketches/oiaOuJv_B)
+* [Meijun](https://editor.p5js.org/may0626/sketches/EW20q8Xog)
+* [Yicen](https://editor.p5js.org/yicen918@gmail.com/sketches/Ktv5YdvqL)
+* [Paige](https://editor.p5js.org/psellers1/sketches/aXJSgh1xT)
+* [Kono](https://editor.p5js.org/Konosuke/sketches/UNEbFMbGu)
+* [Jia](https://editor.p5js.org/Dengasese/sketches/z80Be_raN)
+* [Xiaoying](https://editor.p5js.org/dingdingxy/sketches/gfVmbMB_F)
+* [Mingming](https://editor.p5js.org/mzheng@inside.artcenter.edu/sketches/flL6M92Mg)
+* [Yoko](https://editor.p5js.org/yoko_yin/sketches/XLjBkNZHe)
+* [Jesse](https://editor.p5js.org/dangotkmn/sketches/ipN1y9LRG)
+
+* [Jack]()
+* [Violet]()
+Michael
