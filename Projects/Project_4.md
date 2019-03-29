@@ -16,4 +16,16 @@ Now that you have all five sketches complete, your task is to combine them into 
 
 
 
-* [Nicole](https://editor.p5js.org/nwang/sketches/BJ07dzc2X)
+* [Jesse](https://editor.p5js.org/dangotkmn/sketches/HYOsrbHWG)
+* [Jia](https://editor.p5js.org/Dengasese/sketches/qihCZZmp5)
+* [Jennifer](https://editor.p5js.org/jenniferbahng/sketches/eYMgRfzp6)
+* [Meijun](https://editor.p5js.org/may0626/sketches/QMUeV6JIg)
+* [Xiaoying](https://editor.p5js.org/dingdingxy/sketches/jFVGY_1TU)
+* [Adeline](https://editor.p5js.org/qcao/sketches/EQMKVMNVp)
+* [Paige](https://editor.p5js.org/psellers1/sketches/bqTJExrMc)
+* [Kono](https://editor.p5js.org/Konosuke/sketches/5dHMXGJAh)
+* [Yicen](https://editor.p5js.org/yicen918@gmail.com/sketches/s6bjQHpOT)
+* [Violet](https://editor.p5js.org/vhuff/sketches/N_LqGHg7B)
+* [Mingming](https://editor.p5js.org/mzheng@inside.artcenter.edu/sketches/WXxNv3evr)
+* [Jack](https://editor.p5js.org/Jmitchmoore/sketches/AcThLny4L)
+Yoko
