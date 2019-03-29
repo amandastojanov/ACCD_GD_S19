@@ -34,5 +34,5 @@ Sound On Loop
 * [Violet](https://editor.p5js.org/vhuff/sketches/N_LqGHg7B)
 * [Meijun](https://editor.p5js.org/may0626/sketches/ydiZOSqTU)
 * [Yoko](https://editor.p5js.org/yoko_yin/sketches/v-JlX3dz0)
-* [Jesse]
+* [Jesse](https://editor.p5js.org/dangotkmn/sketches/t17OD3jNd)
 
