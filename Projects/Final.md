@@ -5,4 +5,17 @@ Our assignments so far have been fairly restrictive. For your final project, I w
 
 Please prepare a proposal to share with the class for Monday November 27. Your proposal must include a description of your piece, how you plan to show it, and at least three references or inspiration projects. The proposal doesn’t need to be more than 2-3 short paragraphs. I will do whatever I can to help aid in the completion of your project.
 
-* [Christine](https://editor.p5js.org/cwei1/sketches/HkyNHDyJ4)
+* [Jesse](https://editor.p5js.org/dangotkmn/sketches/7dUP28SwL)
+* [Jia](https://editor.p5js.org/Dengasese/sketches/qihCZZmp5)
+* [Jennifer](https://editor.p5js.org/jenniferbahng/sketches/eYMgRfzp6)
+* [Meijun](https://editor.p5js.org/may0626/sketches/QMUeV6JIg)
+* [Xiaoying](https://editor.p5js.org/dingdingxy/sketches/ebpgYZnKG)
+* [Adeline](https://editor.p5js.org/qcao/sketches/qJLPyVdgH)
+* [Paige](https://editor.p5js.org/psellers1/sketches/t-R7ZXThI)
+* [Kono](https://editor.p5js.org/Konosuke/sketches/5dHMXGJAh)
+* [Yicen](https://editor.p5js.org/yicen918@gmail.com/sketches/7FY70PpJw)
+* [Violet](https://editor.p5js.org/vhuff/sketches/xkqbfbs4L)
+* [Mingming](https://editor.p5js.org/mzheng@inside.artcenter.edu/sketches/WXxNv3evr)
+* [Jack](https://editor.p5js.org/Jmitchmoore/sketches/vOEuXvAfK)
+* [Michael](https://editor.p5js.org/lhzgogo123/sketches/bmTwC6TNs)
+* [Yoko](https://editor.p5js.org/yoko_yin/sketches/fsXgCtEbL)
